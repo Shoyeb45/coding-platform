@@ -7,7 +7,7 @@ import { authenticateUser } from "../../middlewares/auth.middleware";
 
 const router = Router();
 
-router.use(authenticateUser);
+// router.use(authenticateUser);
 
 router.route("/")
     .post(validate(ZTag), asyncHandler(TagController.createTag))
