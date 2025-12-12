@@ -21,7 +21,7 @@ const router = Router();
             "creator": {
                 "id": "02640eb6-c461-4ff7-8bf5-7d1da1e5f665",
                 "name": "Shoyeb Teacher",
-                "email": "mohammad.ansari4@pw.live"
+                "email": "mohammad.shoyeb@gmail.com"
             },
             "tags": [
                 {
@@ -49,7 +49,7 @@ router.route("/contest/upcoming")
         "creator": {
             "id": "db4706c7-f8c7-467f-9b8b-81726c9e24a7",
             "name": "Arayn Teacher",
-            "email": "aryan.chauhan@pw.live"
+            "email": "chauhan.aryan@gmail.com"
         },
         "problemTags": [
             {

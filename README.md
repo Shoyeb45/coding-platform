@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-**[Visit Coding Platform →](https://lab.pwioi.club/)**
+**[Visit Coding Platform →](https://tinyurl.com/coding-platform)**
 
 ---
 
